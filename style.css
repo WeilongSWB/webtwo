@@ -1,0 +1,58 @@
+.noone{
+text-align: center;
+background-color: lightblue;
+border: solid;
+border-color: white;
+border-width: thick;
+
+}
+.science{
+  border-radius: 50%;
+  border-top: dashed;
+  border-bottom: dotted;
+  border-right: outset;
+  border-left: double;
+  position: relative;
+  width: 300px;
+  height: 300px;
+  border-width: 50px;
+
+  border-color: red;
+}
+.lineone{
+  margin-top: 30px;
+  color: blue;
+  border: outset;
+margin-left: 30%;
+margin-right: 30%;
+border-radius: 20%;
+}
+.linetwo{
+  color: orange;
+  border-bottom: solid;
+  margin-left: 40%;
+  margin-right: 40%;
+
+
+}
+.scilink{
+  color: green;
+  font-size: 20px;
+}
+.linethree{
+  color: yellow;
+  border-left: dashed;
+  border-right: dashed;
+border-color: yellow;
+margin-left: 5%;
+margin-right: 5%;
+
+}
+.idiom{
+font-size: 50px;
+color: green;
+}
+.idiomP{
+  margin-left: 80%;
+  color: green;
+}
